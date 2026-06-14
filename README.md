@@ -6,5 +6,5 @@
 
 
 
-\[Archive](https://archive.org/).
+\[Archive](https://archive.org)
 
